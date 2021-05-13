@@ -15,6 +15,8 @@ Piracy Guide is a repository with piracy tools and links
 ### Password Vaults
 - [KeePassXC](https://keepassxc.org) free and open-source password manager, supported on Linux, Windows, and macOS
 
+### Music
+
 ### Spotify
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify on Windows
 -
