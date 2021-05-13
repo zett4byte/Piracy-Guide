@@ -21,7 +21,8 @@ Piracy Guide is a repository with piracy tools and links
 - [Virustotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 
 ### Windows 10 Privacy
-
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) In-depth guide on purging Windows 10 of Microsoft's attempts to track you
+- [WPD](https://wpd.app/) Privacy dashboard for Windows
 
 ### Music
 
