@@ -3,6 +3,7 @@ Piracy Guide is a repository with piracy tools and links
 
 - [Browser Extensions](#browser-extensions)
 - [Password Vaults](#password-vaults)
+- [Windows 10 Privacy](#windows-10-privacy)
 - [Music](#music)
     - [Spotify](#spotify)
 
@@ -14,6 +15,13 @@ Piracy Guide is a repository with piracy tools and links
 
 ### Password Vaults
 - [KeePassXC](https://keepassxc.org) free and open-source password manager, supported on Linux, Windows, and macOS
+
+### Antivirus
+- [Malwarebytes](https://www.malwarebytes.com/) Malwarebytes is a next-generation antivirus replacement
+- [Virustotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+
+### Windows 10 Privacy
+
 
 ### Music
 
